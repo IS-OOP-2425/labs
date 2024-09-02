@@ -1,2 +1,3 @@
-# labs
-Лабораторні роботи
+# Лабораторні роботи
+
+## Лабораторна робота 1 - https://classroom.github.com/a/TgPRUShs
