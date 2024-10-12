@@ -5,3 +5,4 @@
 ## Лабораторна робота 3 - https://classroom.github.com/a/ic07vVhY
 ## Лабораторна робота 4 - https://classroom.github.com/a/ocklroJ9
 ## Лабораторна робота 5 - https://classroom.github.com/a/ocSXA91v
+## Лабораторна робота 6 - https://classroom.github.com/a/SmWn4RPh
