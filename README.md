@@ -8,5 +8,5 @@
 ## Лабораторна робота 6 - https://classroom.github.com/a/SmWn4RPh
 
 ## Лабораторна робота 7 - https://classroom.github.com/a/UnsGZCK4
-## Лабораторна робота 8 - [](https://classroom.github.com/a/TIeLA_p_)
+## Лабораторна робота 8 - [посилання](https://classroom.github.com/a/TIeLA_p_)
 
